@@ -1,0 +1,15 @@
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.csproj.AssemblyReference.cache
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.AssemblyInfoInputs.cache
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.AssemblyInfo.cs
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.csproj.CoreCompileInputs.cache
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\bin\Debug\net6.0\Tasks001.exe
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\bin\Debug\net6.0\Tasks001.deps.json
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\bin\Debug\net6.0\Tasks001.runtimeconfig.json
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\bin\Debug\net6.0\Tasks001.dll
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\bin\Debug\net6.0\Tasks001.pdb
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.dll
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\refint\Tasks001.dll
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.pdb
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\Tasks001.genruntimeconfig.cache
+C:\Users\79215\OneDrive\Рабочий стол\HomeTasks\Tasks001\obj\Debug\net6.0\ref\Tasks001.dll
